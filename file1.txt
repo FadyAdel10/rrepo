@@ -1,2 +1,3 @@
 line 1 in file1.txt
 sec line in remote repo
+third line in remote master
