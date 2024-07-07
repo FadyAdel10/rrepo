@@ -4,3 +4,4 @@ third line in remote master
 forth line in remote master
 fifth line in remote master
  new one 
+sixth line
